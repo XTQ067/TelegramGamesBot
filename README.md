@@ -2,7 +2,7 @@
 
 ### Данный проект представляет собой набор мини-игр для мессенджера Telegram
 Ссылка на документацию: https://never_rin.gitlab.io/gamebotsfortelegram/<br />
-(Origin: https://gitlab.com/never_rin/gamebotsfortelegram)
+(Origin: https://gitlab.com/XTQ067/gamebotsfortelegram)
 ## 
 
 
