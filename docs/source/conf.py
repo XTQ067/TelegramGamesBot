@@ -17,8 +17,8 @@ sys.path.insert(0, os.path.abspath('../../'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'GamesBotForTelegram'
-copyright = '2020, PA_KO_EZ'
+project = 'SU57BOTS'
+copyright = '2022, PA_KO_EZ'
 author = 'PA_KO_EZ'
 
 # -- General configuration ---------------------------------------------------
